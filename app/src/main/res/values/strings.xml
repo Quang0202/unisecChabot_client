@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unisec-chabot</string>
+    <string name="no_record_found">Chat "Hi" để bắt đầu</string>
+    <string name="message_hint">Enter message</string>
+</resources>
